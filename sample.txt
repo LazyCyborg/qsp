@@ -1,0 +1,20 @@
+# Sample text for demo
+sample_text = """
+I've been reflecting on my journey in this company. When I started five years ago, I was excited but also nervous about the challenges ahead.
+
+The first year was difficult. I had to learn so many new systems, and sometimes felt overwhelmed by the complexity. My manager was supportive though, and that made a big difference.
+
+By the second year, I was much more confident. I started taking on more responsibilities and even led a small project. That was really satisfying professionally.
+
+However, the third year brought some challenges. There was a reorganization, and I found myself in a new team with different dynamics. It took time to adjust, and honestly, I considered looking for opportunities elsewhere.
+
+What kept me here was the company culture and the meaningful work. I realized that despite the challenges, I was growing professionally and making valuable contributions.
+
+Now, looking at where I am, I feel proud of how far I've come. I've developed skills I never thought I would have, built strong relationships with colleagues, and contributed to important projects.
+
+For the future, I'm excited about the new initiatives we're starting. I hope to continue growing here and perhaps move into a leadership role eventually. The company has been supportive of professional development, and I appreciate that.
+
+When it comes to work-life balance, I think we could still improve. Sometimes the deadlines create stress that affects personal time, but I've gotten better at setting boundaries.
+
+Overall, I'm grateful for the opportunities I've had here and optimistic about what's ahead.
+"""
