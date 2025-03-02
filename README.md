@@ -1,6 +1,6 @@
 # QSP (Quantitative Semantic Analysis Python)
 
-A streamlit-based application for analyzing interview texts using transformer models, sentiment analysis, and semantic similarity metrics to extract patterns and insights.
+A streamlit-based application for analyzing interview texts using transformer models, sentiment analysis, and semantic similarity metrics.
 
 ## Features
 
