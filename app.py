@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 import base64
 import nltk
-from model_adaptor import ModelAdaptor  # Import the new adapter class
+from model_adaptor import ModelAdaptor
 
 # Apply nest_asyncio to handle async operations
 nest_asyncio.apply()
@@ -313,7 +313,7 @@ def main():
             st.subheader("Segment Similarity Matrix")
             st.markdown("""
             This heatmap shows the similarity between each pair of segments. 
-            - Darker blue indicates higher similarity
+            - Darker red indicates higher similarity
             - The diagonal is self-similarity (always 1.0)
             - Hover over cells to see more details
             """)

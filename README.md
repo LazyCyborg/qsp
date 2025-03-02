@@ -22,7 +22,7 @@ conda activate qsp
 ## Clone the repo and install the packages
 
 ```bash
-git clone https://github.com/YourUsername/qsp.git
+git clone https://github.com/LazyCyborg/qsp.git
 cd qsp
 pip install -r requirements.txt
 ```
