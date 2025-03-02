@@ -67,7 +67,7 @@ QSP uses two complementary sentiment analysis methods:
    - Uses [cardiffnlp/twitter-roberta-base-sentiment-latest](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest)
    - Provides classification as "positive," "neutral," or "negative"
    - Includes confidence scores for classifications
-   - Fine-tuned on Twitter data for modern language understanding
+   - Fine-tuned on Twitter data
 
 2. **VADER (Valence Aware Dictionary and sEntiment Reasoner)**:
    - Rule-based sentiment analyzer specifically tuned for social media
